@@ -1,0 +1,15 @@
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\bin\Debug\net7.0\estruturasOperadores.exe
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\bin\Debug\net7.0\estruturasOperadores.deps.json
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\bin\Debug\net7.0\estruturasOperadores.runtimeconfig.json
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\bin\Debug\net7.0\estruturasOperadores.dll
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\bin\Debug\net7.0\estruturasOperadores.pdb
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.csproj.AssemblyReference.cache
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.AssemblyInfoInputs.cache
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.AssemblyInfo.cs
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.csproj.CoreCompileInputs.cache
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.dll
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\refint\estruturasOperadores.dll
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.pdb
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\estruturasOperadores.genruntimeconfig.cache
+C:\Users\dioni\source\repos\olaMundo\estruturasOperadores\obj\Debug\net7.0\ref\estruturasOperadores.dll

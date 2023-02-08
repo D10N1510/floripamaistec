@@ -1,0 +1,15 @@
+C:\Users\dioni\source\repos\olaMundo\olamundo\bin\Debug\net7.0\olamundo.exe
+C:\Users\dioni\source\repos\olaMundo\olamundo\bin\Debug\net7.0\olamundo.deps.json
+C:\Users\dioni\source\repos\olaMundo\olamundo\bin\Debug\net7.0\olamundo.runtimeconfig.json
+C:\Users\dioni\source\repos\olaMundo\olamundo\bin\Debug\net7.0\olamundo.dll
+C:\Users\dioni\source\repos\olaMundo\olamundo\bin\Debug\net7.0\olamundo.pdb
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.csproj.AssemblyReference.cache
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.AssemblyInfo.cs
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.dll
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\refint\olamundo.dll
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.pdb
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\olamundo.genruntimeconfig.cache
+C:\Users\dioni\source\repos\olaMundo\olamundo\obj\Debug\net7.0\ref\olamundo.dll
