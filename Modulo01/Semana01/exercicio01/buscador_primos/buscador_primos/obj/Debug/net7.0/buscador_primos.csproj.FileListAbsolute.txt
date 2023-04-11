@@ -1,0 +1,15 @@
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\bin\Debug\net7.0\buscador_primos.exe
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\bin\Debug\net7.0\buscador_primos.deps.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\bin\Debug\net7.0\buscador_primos.runtimeconfig.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\bin\Debug\net7.0\buscador_primos.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\bin\Debug\net7.0\buscador_primos.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.csproj.AssemblyReference.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.AssemblyInfoInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.AssemblyInfo.cs
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.csproj.CoreCompileInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\refint\buscador_primos.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\buscador_primos.genruntimeconfig.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio01\buscador_primos\buscador_primos\obj\Debug\net7.0\ref\buscador_primos.dll
