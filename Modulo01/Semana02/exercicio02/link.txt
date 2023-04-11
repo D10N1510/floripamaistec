@@ -1,0 +1,7 @@
+Link do meu repositorio do curso no github:
+
+https://github.com/D10N1510/floripamaistec
+
+Link dos exercicios da semana 01:
+
+https://github.com/D10N1510/floripamaistec/tree/main/Modulo01/Semana01
