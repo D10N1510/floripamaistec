@@ -1,0 +1,15 @@
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\bin\Debug\net7.0\organiza_frutas.exe
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\bin\Debug\net7.0\organiza_frutas.deps.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\bin\Debug\net7.0\organiza_frutas.runtimeconfig.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\bin\Debug\net7.0\organiza_frutas.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\bin\Debug\net7.0\organiza_frutas.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.csproj.AssemblyReference.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.AssemblyInfoInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.AssemblyInfo.cs
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.csproj.CoreCompileInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\refint\organiza_frutas.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\organiza_frutas.genruntimeconfig.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio02\organiza_frutas\organiza_frutas\obj\Debug\net7.0\ref\organiza_frutas.dll

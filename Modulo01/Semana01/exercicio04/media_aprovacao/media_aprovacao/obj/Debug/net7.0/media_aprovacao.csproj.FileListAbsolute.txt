@@ -1,0 +1,15 @@
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.csproj.AssemblyReference.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.AssemblyInfoInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.AssemblyInfo.cs
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.csproj.CoreCompileInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\bin\Debug\net7.0\media_aprovacao.exe
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\bin\Debug\net7.0\media_aprovacao.deps.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\bin\Debug\net7.0\media_aprovacao.runtimeconfig.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\bin\Debug\net7.0\media_aprovacao.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\bin\Debug\net7.0\media_aprovacao.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\refint\media_aprovacao.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\media_aprovacao.genruntimeconfig.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio04\media_aprovacao\media_aprovacao\obj\Debug\net7.0\ref\media_aprovacao.dll

@@ -1,0 +1,15 @@
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.exe
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.deps.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.runtimeconfig.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\bin\Debug\net7.0\fibonacci.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.csproj.AssemblyReference.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.AssemblyInfo.cs
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\refint\fibonacci.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\fibonacci.genruntimeconfig.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio05\fibonacci\fibonacci\obj\Debug\net7.0\ref\fibonacci.dll

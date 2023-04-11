@@ -1,0 +1,15 @@
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\bin\Debug\net7.0\separador_numeros.exe
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\bin\Debug\net7.0\separador_numeros.deps.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\bin\Debug\net7.0\separador_numeros.runtimeconfig.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\bin\Debug\net7.0\separador_numeros.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\bin\Debug\net7.0\separador_numeros.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.csproj.AssemblyReference.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.AssemblyInfoInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.AssemblyInfo.cs
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.csproj.CoreCompileInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\refint\separador_numeros.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\separador_numeros.genruntimeconfig.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana01\exercicio03\separador_numeros\separador_numeros\obj\Debug\net7.0\ref\separador_numeros.dll
