@@ -1,0 +1,7 @@
+Crie um manual de criação de conta, instalação do GitBash, GitHub Desktop e configuração.
+    1. Crie um documento chamado de Manual de Instalação do Git no computador;
+    2. Realize a instalação do GitBash e GitHub Desktop em seu computador documentando a sua jornada de configuração em sua máquina;
+    3. Escrevendo como se você fosse enviar para que outra pessoa consiga baixar, instalar e configurar tudo da mesma maneira que você fez;
+    4. Use prints de tela e mais (cuide para não expor nenhum dado pessoal nas imagens, viu?)
+    5. Exporte um PDF, para anexar no card para a entrega dos exercícios;
+
