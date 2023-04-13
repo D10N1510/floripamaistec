@@ -1,0 +1,15 @@
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.csproj.AssemblyReference.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.AssemblyInfoInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.AssemblyInfo.cs
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\bin\Debug\net7.0\ClasseEConstrutor.exe
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\bin\Debug\net7.0\ClasseEConstrutor.deps.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\bin\Debug\net7.0\ClasseEConstrutor.runtimeconfig.json
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\bin\Debug\net7.0\ClasseEConstrutor.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\bin\Debug\net7.0\ClasseEConstrutor.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\refint\ClasseEConstrutor.dll
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.pdb
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ClasseEConstrutor.genruntimeconfig.cache
+C:\Users\dioni\Desktop\FLORIPAMAISTEC\Github\floripamaistec\Modulo01\Semana03\exercicio01\ClasseEConstrutor\ClasseEConstrutor\obj\Debug\net7.0\ref\ClasseEConstrutor.dll
