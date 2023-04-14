@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_test", "xunitValidadorNumerosTDD\TDD_test.csproj", "{5A01A577-C6E0-4F4C-AFF6-99E67C782A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD", "TDD\TDD.csproj", "{ED0DB4EE-3B1A-473D-A684-26DADF1CA4A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A01A577-C6E0-4F4C-AFF6-99E67C782A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A01A577-C6E0-4F4C-AFF6-99E67C782A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A01A577-C6E0-4F4C-AFF6-99E67C782A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A01A577-C6E0-4F4C-AFF6-99E67C782A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0DB4EE-3B1A-473D-A684-26DADF1CA4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0DB4EE-3B1A-473D-A684-26DADF1CA4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0DB4EE-3B1A-473D-A684-26DADF1CA4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0DB4EE-3B1A-473D-A684-26DADF1CA4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B6CE5DC-4800-4F8A-8548-EF5ED3D5F460}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_test", "xunitCalculadoraTDD\TDD_test.csproj", "{E07EBB64-850C-4035-8440-8D9F8789736A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD", "TDD\TDD.csproj", "{149AFE0B-A0F1-4A5B-8EC6-F714DD9F7CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07EBB64-850C-4035-8440-8D9F8789736A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07EBB64-850C-4035-8440-8D9F8789736A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07EBB64-850C-4035-8440-8D9F8789736A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07EBB64-850C-4035-8440-8D9F8789736A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149AFE0B-A0F1-4A5B-8EC6-F714DD9F7CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149AFE0B-A0F1-4A5B-8EC6-F714DD9F7CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149AFE0B-A0F1-4A5B-8EC6-F714DD9F7CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149AFE0B-A0F1-4A5B-8EC6-F714DD9F7CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BB9902-F6FC-47F8-9FB1-5B9BAD5A3484}
+	EndGlobalSection
+EndGlobal
