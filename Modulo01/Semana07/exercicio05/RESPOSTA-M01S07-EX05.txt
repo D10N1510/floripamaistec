@@ -1,0 +1,4 @@
+
+UPDATE Aluno
+SET endereco = 'Av. Norte, 350, Recife-PE'
+WHERE id = 2;

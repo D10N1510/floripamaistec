@@ -1,0 +1,3 @@
+Considerando as tabelas em anexo:
+
+Escreva o comando necessário para adicionar a data de nascimento do professor à tabela.

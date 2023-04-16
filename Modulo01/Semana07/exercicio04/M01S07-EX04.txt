@@ -1,0 +1,3 @@
+Considerando as tabelas do exercício anterior:
+
+Escreva a query necessária para alterar a idade do aluno Luiz Ricardo Soares para 27 anos.

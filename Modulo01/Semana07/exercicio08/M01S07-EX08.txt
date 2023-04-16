@@ -1,0 +1,2 @@
+
+Considerando a tabela Pedidos em anexo, escreva o comando completo necessário para alterar o tipo de dado da coluna “datapedido” de date para string (texto).

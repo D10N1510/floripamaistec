@@ -1,0 +1,3 @@
+Considerando as tabelas em anexo:
+
+Escreva a query necessária para termos todos os registros da tabela B inclusive os que são comuns a tabela A ordenando pela ordem alfabética da tabela A

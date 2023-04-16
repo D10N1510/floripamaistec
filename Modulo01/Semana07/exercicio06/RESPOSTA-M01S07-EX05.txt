@@ -1,0 +1,4 @@
+
+SELECT * 
+FROM Aluno 
+WHERE Idade > 21 AND nome_aluno LIKE '%Silva%';

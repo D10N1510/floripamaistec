@@ -1,0 +1,3 @@
+UPDATE Aluno 
+SET Idade = 27
+WHERE id_aluno = 3;

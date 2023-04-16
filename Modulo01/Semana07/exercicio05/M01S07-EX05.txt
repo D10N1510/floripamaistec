@@ -1,0 +1,3 @@
+Considerando as tabelas em anexo:
+
+Supondo que o número da residência da aluna Maria Joaquina dos Anjos foi cadastrado errado no banco de dados, como faremos a atualização para: Av. Norte, 350, Recife-PE?

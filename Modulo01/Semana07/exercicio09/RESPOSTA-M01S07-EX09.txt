@@ -1,0 +1,4 @@
+
+
+SELECT AVG(Idade) AS media FROM ALUNO;
+

@@ -1,0 +1,3 @@
+Considerando as tabelas em anexo:
+
+Construa a query necessária para retornar os alunos com idade maior que 21 anos e que contenham “Silva” no nome.

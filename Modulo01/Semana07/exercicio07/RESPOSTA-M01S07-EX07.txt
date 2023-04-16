@@ -1,0 +1,3 @@
+
+
+ALTER TABLE Professor ADD dataNascimento DATE NOT NULL;

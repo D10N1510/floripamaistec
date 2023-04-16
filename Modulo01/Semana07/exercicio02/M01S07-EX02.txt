@@ -1,0 +1,1 @@
+Escreva as querys necessárias para inserir dados em todas as tabelas em anexo (pelo menos 3 linhas em cada). Tente pela notação de uma linha por vez e também pela várias linhas de uma vez.

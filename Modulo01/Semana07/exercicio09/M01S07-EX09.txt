@@ -1,0 +1,7 @@
+
+
+Considerando as tabelas do exercício anterior:
+
+escreva a query necessária para sabermos a média de idade dos alunos.
+
+OBS: Essa card estava com título "[M2S09] EX 05 SQL - SELECT"

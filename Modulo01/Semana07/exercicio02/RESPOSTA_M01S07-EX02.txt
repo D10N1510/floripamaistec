@@ -1,0 +1,42 @@
+INSERT INTO Aluno (nome_aluno, endereco, Idade) VALUES
+('Jose Perez', 'Rua Tubarao, 50, Tubarao-SC', 25);
+
+INSERT INTO Aluno (nome_aluno, endereco, Idade) VALUES
+('Pedro Silva', 'Rua Joinville, 60, Joinville-SC', 36);
+
+INSERT INTO Aluno (nome_aluno, endereco, Idade) VALUES
+('Marcia Andrade', 'Rua Blumenau, 70, Blumenau-SC', 32);
+
+INSERT INTO Disciplina (nome_disc, carga_hour) VALUES
+('Aprendizado de Máquinas', 60);
+
+INSERT INTO Disciplina (nome_disc, carga_hour) VALUES
+('Algoritmos', 60);
+
+INSERT INTO Disciplina (nome_disc, carga_hour) VALUES
+('Redes de Computadores', 60);
+
+INSERT INTO Professor (nome_prof, graduacao) VALUES
+('João Pires', 'Ciência da Computação');
+
+INSERT INTO Professor (nome_prof, graduacao) VALUES
+('Thiago Scherer', 'Engenharia da Computação');
+
+INSERT INTO Professor (nome_prof, graduacao) VALUES
+('Bruno Nunes', 'Sistemas de Informação');
+
+INSERT INTO Aluno (nome_aluno, endereco, Idade) VALUES
+('Douglas Seabra', 'Av. das Rendeiras, 50, Florianópolis-SC', 20),
+('Marcio Teles', 'Av. Mauro Ramos, 305, Florianópolis-SC', 23);
+('Tatiane Augusto', 'Av. Paulo FOntes, 450, Florianópolis-SC', 29);
+
+INSERT INTO Disciplina (nome_disc, carga_hour) VALUES
+('Introdução a Informática', 60),
+('Lógica de Programação', 60),
+('Banco de dados I', 60);
+
+INSERT INTO Professor (nome_prof, graduacao) VALUES
+('Julia Melo', 'Licenciatura em Informática'),
+('Priscila Santos', 'Ciências da Computação'),
+('Fernando Sales', 'Engenharia da Computação');
+
