@@ -1,0 +1,31 @@
+De acordo com a identificação das entidades e atributos do exercício anterior, identifiquem os respectivos tipos dos atributos.
+
+São os mais utilizados:
+
+int: int
+string: varchar(n)
+double: float ou decimal(n,n) - precisão de n e uma escala de n
+bool: bit (0 ou 1)
+char: char()
+DateTime: datetime
+
+==============================================
+
+FILME:
+	- título: varchar(100)
+	- categoria: varchar(50)
+	- identificador: varchar(50) //código de barras do DVD
+	- nroEstrelas: int
+
+ATOR:
+	- apelido: varchar(50)
+	- nomeReal: varchar(50)
+	- dataNascimento: DateTime
+
+CLIENTE:
+	- nome: varchar(20)
+	- sobrenome: varchar(20)
+	- telefone: varchar(20)
+	- endereço: varchar(50)
+	- nroAssociado: int
+

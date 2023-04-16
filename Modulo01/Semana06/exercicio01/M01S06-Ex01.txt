@@ -1,0 +1,8 @@
+Identifique as entidades e atributos no texto:
+
+ENTIDAD(atributos01,atributo02,...,atributoN)
+-------------------
+FILME(título, categoria, identificador, nroEstrelas)
+ATOR(apelido, nomeReal, dataNascimento)
+CLIENTE(nome, sobrenome, telefone, endereço, nroAssociado)
+

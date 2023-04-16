@@ -1,0 +1,43 @@
+CREATE DATABASE Biblioteca;
+
+CREATE TABLE CATEGORIA(
+	idCategoria INT IDENTITY PRIMARY KEY,
+	codigoCategoria VARCHAR(20) NOT NULL,
+	descricao VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE LIVRO (
+	idLivro INT IDENTITY PRIMARY KEY,
+	isbn VARCHAR(50) NOT NULL,
+	titulo VARCHAR(50) NOT NULL,
+	ano int NOT NULL,
+	editora VARCHAR(50),
+	idCategoria INT NOT NULL,
+	CONSTRAINT FK_categoria FOREIGN KEY (idCategoria) REFERENCES categoria(idCategoria)
+);
+
+CREATE TABLE AUTOR (
+	idAutor INT IDENTITY PRIMARY KEY,
+	nome VARCHAR(50) NOT NULL,
+	nacionalidade VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE AUTOR_LIVRO (
+	idAutorLivro INT IDENTITY PRIMARY KEY,
+	idLivro INT NOT NULL,
+	idAutor INT NOT NULL,
+	idCategoria int NOT NULL,
+	CONSTRAINT FK_livro FOREIGN KEY (idLivro) REFERENCES LIVRO(idLivro),
+	CONSTRAINT FK_autor FOREIGN KEY (idAutor) REFERENCES AUTOR(idAutor),
+	CONSTRAINT FK_categ FOREIGN KEY (idCategoria) REFERENCES CATEGORIA(idCategoria)
+);
+
+
+/* adicionar uma chave estrangeira numa tabela já existente
+ALTER TABLE AUTOR_LIVRO
+   ADD CONSTRAINT FK_categ FOREIGN KEY (idCategoria)
+      REFERENCES CATEGORIA(idCategoria)
+      ON DELETE CASCADE
+      ON UPDATE CASCADE
+;
+*/
