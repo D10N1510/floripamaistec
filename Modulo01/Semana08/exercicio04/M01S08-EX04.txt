@@ -1,0 +1,9 @@
+
+Crie uma classe chamada AlunoModel com as seguintes propriedades:
+
+Nome
+Data de nascimento
+
+AlunoModel deve herdar de BaseModel
+
+

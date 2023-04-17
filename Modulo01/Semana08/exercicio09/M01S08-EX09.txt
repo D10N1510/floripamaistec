@@ -1,0 +1,13 @@
+
+
+Crie um endpoint na controller de alunos para obter um aluno por Id
+
+Este endpoint receberá um parâmetro: id
+
+Além do endpoint também deverá ser criado um método na classe AlunoRepository para retornar o aluno por id.
+
+Caso não exista deve-se retornar o Status Code correto.
+Sempre lembrando de usar o verbo HTTP Correto
+
+
+

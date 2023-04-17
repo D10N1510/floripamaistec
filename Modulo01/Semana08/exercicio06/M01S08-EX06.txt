@@ -1,0 +1,10 @@
+
+Crie um método na classe AlunosRepository para listar os alunos da lista estática de alunos.
+
+Este método receberá um parâmetro: nome
+Ou seja, este método poderá filtrar os alunos por nome
+Caso não seja informado um nome, o método deverá retornar toda a lista.
+Observação: a pesquisa não deve considerar o case-sensitive
+Ou seja:
+Filtro: Ana, ou ana, ou ANA, ou AnA, deve-se retornar Ana.
+

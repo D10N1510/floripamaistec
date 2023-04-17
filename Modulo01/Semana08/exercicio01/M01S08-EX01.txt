@@ -1,0 +1,3 @@
+Crie um novo projeto com .NET usando o template WebAPI com o nome “Escola“
+
+Remova as classes WeatherForecast.cs e WeatherForecastController.cs

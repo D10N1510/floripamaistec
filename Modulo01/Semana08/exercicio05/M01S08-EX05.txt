@@ -1,0 +1,8 @@
+Crie uma classe chamada AlunosRepository.
+Essa classe deve ter uma lista estática privada de AlunoModel.cs, para futuramente ser manipulada.
+
+A ideia é que esta classe funcione como uma tabela do banco de dados já que neste semana não iremos abordar este assunto.
+
+Um atributo estático fica armazenado em memória enquanto a aplicação está sendo executada
+
+

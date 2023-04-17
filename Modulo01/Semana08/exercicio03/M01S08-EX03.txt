@@ -1,0 +1,8 @@
+
+Crie uma classe abstrata chamada BaseModel com as seguintes propriedades:
+
+Id
+DataDeInclusao
+DataDeAlteracao
+
+

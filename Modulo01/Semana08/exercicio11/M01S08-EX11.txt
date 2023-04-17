@@ -1,0 +1,6 @@
+Crie um endpoint na controller de alunos para excluir um aluno
+
+O endpoint deverá receber o id do aluno como parâmetro.
+Além do endpoint também deverá ser criado um método na classe AlunoRepository para exclusão o aluno.
+Sempre lembrando de usar o verbo HTTP Correto
+

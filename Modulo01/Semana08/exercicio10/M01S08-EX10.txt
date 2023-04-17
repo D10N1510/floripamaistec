@@ -1,0 +1,15 @@
+
+Crie um endpoint na controller de alunos para criar um novo aluno
+
+Também deverá ser criado uma classe chamada CriacaoAlunoDto.cs
+Este classe deverá ter as propriedades necessárias para criação de um aluno.
+Essa classe deve ser usada como tipo do parâmetro de entrada do endpoint.
+
+Além do endpoint também deverá ser criado um método na classe AlunoRepository para criar o aluno.
+
+Todos os atributos do Aluno são obrigatórios e devem ser validados
+Sempre lembrando de usar o verbo HTTP Correto
+
+
+
+
