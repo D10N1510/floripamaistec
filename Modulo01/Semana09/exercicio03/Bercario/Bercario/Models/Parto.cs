@@ -18,7 +18,7 @@ namespace Bercario.Models
         public virtual Medico MedicoDoParto { get; set; }
 
 
-        public virtual ICollection<Bebe> BebesDoParto { get;}
+        public virtual ICollection<Bebe> BebesDoParto { get; set; }
 
 
         public void Display()

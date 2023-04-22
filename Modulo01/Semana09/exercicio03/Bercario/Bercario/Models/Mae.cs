@@ -17,6 +17,6 @@ namespace Bercario.Models
         
         public DateTime Data_Nascimento { get; set; }
 
-        public virtual ICollection<Bebe> Bebes { get;}
+        public virtual ICollection<Bebe> Bebes { get; set;}
     }
 }
