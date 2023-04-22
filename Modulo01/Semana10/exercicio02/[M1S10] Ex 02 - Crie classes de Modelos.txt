@@ -1,0 +1,1 @@
+Crie as seguintes classes de modelo que futuramente representarão tabelas no banco de dados.

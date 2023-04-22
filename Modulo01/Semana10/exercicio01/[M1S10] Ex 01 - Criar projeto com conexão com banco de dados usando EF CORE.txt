@@ -1,0 +1,2 @@
+Crie um projeto, web api, usando .NET 6 com EF Core.
+A string de conexão deve ficar no AppSettings.Development

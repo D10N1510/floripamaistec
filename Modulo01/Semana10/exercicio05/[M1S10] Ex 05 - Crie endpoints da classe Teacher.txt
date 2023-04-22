@@ -1,0 +1,14 @@
+Crie os endpoints:
+
+Criar
+Atualizar
+Listar
+Obter por Id
+Excluir
+Deve-se criar um Controller, Repositorie e se possível um Service.
+
+Lembre-se sempre de utilizar os verbos HTTP corretamente
+
+Lembre-se de sempre retornar o status code correto.
+
+Se possível, verifique se o modelo está válido com FluentValidation

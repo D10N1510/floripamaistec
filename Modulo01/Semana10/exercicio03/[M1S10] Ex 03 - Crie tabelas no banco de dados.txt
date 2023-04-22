@@ -1,0 +1,3 @@
+
+Crie tabelas no banco de dados usando as classes criadas no exercício anterior
+Observação: Deve-se usar migrations (Code first)
